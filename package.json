@@ -23,7 +23,7 @@
     "test": "expresso"
   },
   "devDependencies": {
-    "tape": "^4.0.0"
+    "tape": "^5.1.1"
   },
   "license": "MIT",
   "author": {
